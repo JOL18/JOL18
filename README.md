@@ -1,4 +1,4 @@
-- 👋 Hola, sot Jhonatan Smit Orrego Lozano (@JOL18)
+- 👋 Hola, soy Jhonatan Smit Orrego Lozano (@JOL18)
 - 👀 Me interesa todo lo relacionado al ERP SAP, en su lenguaje de programación ABAP, manejo de MF, clases, web services, CDS y demas
 - 🌱 Actualmente aprendo diariamente del buen uso y las mejores practicas en la programación ABAP ...
 
